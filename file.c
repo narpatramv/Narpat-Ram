@@ -10,6 +10,6 @@ printf("i=%d\n",i);
 sum=sum+i;
 }
 }
-printf("sum=%d",sum);
+printf("sum=%d",sum);//print the even no sum
 return 0;
 }
